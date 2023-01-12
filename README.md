@@ -1,4 +1,9 @@
-# inventory
-An inventory system developed using Django.
+# Library Inventory System
 
-Following [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+An inventory system for managing books, authors, etc built using 
+Django, PostgreSQL, and hosted on [Railway](https://web-production-5343.up.railway.app/).
+
+Very basic, this is a starting point for other interesting Django/Full
+Stack projects.
+
+Developed following the [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django).
